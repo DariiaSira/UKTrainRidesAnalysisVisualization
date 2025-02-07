@@ -1,4 +1,4 @@
-## Optimising Travel by Train in the UK: Trend Analysis and Visualisation. 
+## [Optimising Travel by Train in the UK: Trend Analysis and Visualisation](https://github.com/DariiaSira/UKTrainRidesAnalysisVisualization/blob/main/UKTrainRidesAnalysis.ipynb). 
 
 ### Introduction
 
@@ -15,11 +15,9 @@ The goal of the project was to conduct comprehensive data analysis to identify k
 * Identification of trends in customer behavior.
 
 ### About the dataset:
-
 The data contains mock train ticket sales for National Rail in the UK, from January to April 2024, including details on the type of ticket, the date & time for each journey, the departure & arrival stations, the ticket price, and more.
 
 ## Installation
-
 To run the project, you need Python with the following libraries installed:
 
 - `pandas`.
